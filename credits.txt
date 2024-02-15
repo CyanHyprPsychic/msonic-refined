@@ -1,0 +1,59 @@
+NEW SPRITES
+
+"Sonic Mania" Artstyle Analysis & Tutorialization
+	Bennascar	
+	
+Anatomy Advisory
+	RetroForever 
+	
+Programmer
+	RetroForever
+
+Organization
+	The Sonic & Co. Spriting Guild
+	CyanHyprPsychic
+
+"Idle"
+	SomeGuyOnline
+	MiaCDi
+	AngelicMiracles
+	CyanHyprPsychic
+
+"Idle Rotation"
+	bennascar
+	joshyflip
+	CyanHyprPsychic 
+	CancerEdition
+	Ray.1001
+
+"Run"
+	octavioluigiiyt
+
+===========================================================
+REFERENCED ART
+
+3D Models
+	Taku Makino
+	Crazl11 / crazylifegamer
+
+===========================================================
+ORIGINAL SPRITES
+
+Sonic The Hedgehog
+	Naoto Ohshima
+	Jina Ishiwatari
+
+Sonic The Hedgehog CD
+	Kazuyuki Hoshino
+
+Sonic The Hedgehog 2
+	Yasushi Yamaguchi / "Judy Totoya"
+
+Sonic The Hedgehog 3
+	Takashi Yuda
+
+Sonic Mania
+	Tom Fry
+	Lucas Carvalho
+	Paul Veer
+	Kieran Gates
