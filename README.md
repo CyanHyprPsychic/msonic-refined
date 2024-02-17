@@ -1,8 +1,8 @@
-# Mania Sonic, Refined!
+# Sonic Mania, Redefined!
 
 ![Banner](https://raw.githubusercontent.com/CyanHyprPsychic/msonic-refined/main/git_banner.png)
 
-A Sonic Mania mod, redrawing various frames and bodyparts of Sonic's spriteset for consistency and quality.
+A Sonic Mania mod, redrawing various frames and bodyparts of all 5 of Mania's playable characters' (and Metal Sonic's) spritesets for consistency and quality.
 
 Public contributions are appreciated! Just please list what you drew or edited and the alias/URL by which you would like to be credited.
 
