@@ -26,8 +26,23 @@ Organization
 	CancerEdition
 	Ray.1001
 
+"Walk"
+	octavioluigiiyt
+
 "Run"
 	octavioluigiiyt
+
+"Ball"
+	CancerEdition
+
+"Hurt / Watersliding"
+	CancerEdition
+
+"Victory Finger Wag"
+	CancerEdition
+
+"Balancing Backwards"
+	maniamadnez
 
 ===========================================================
 REFERENCED ART
